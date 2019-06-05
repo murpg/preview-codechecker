@@ -1,0 +1,12 @@
+Links
+Forgebox app
+https://www.forgebox.io/view/CodeChecker
+
+CodeChecker app repo
+https://github.com/Ortus-Solutions/CodeChecker
+
+CodeChecker CLI
+https://www.forgebox.io/view/commandbox-codechecker
+
+CommandBox book
+https://commandbox.ortusbooks.com/
