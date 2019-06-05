@@ -7,4 +7,18 @@ A shout out to Chris Weller's, who created the first version of the CodeChecker 
 1. CodeChecker app   
 2. CodeChecker CLI tool  
 
-The Ortus Solutions versions of CodeChecker can best be used if it is managed by CommandBox. For those of you who do not know what CommandBox is I strongly suggest that you check it out. Here is a link to the CommandBox book. 
+The Ortus Solutions versions of CodeChecker can best be used if it is managed by CommandBox. For those of you who do not know what CommandBox is I strongly suggest that you check it out. Here is a link to the CommandBox book. https://commandbox.ortusbooks.com/ 
+
+### Install CodeChecker app
+
+The CodeChecker app is installed by running these commands from your CLI after you have installed CommandBox.  
+
+```
+git clone git@github.com:Ortus-Solutions/CodeChecker.git
+box install
+box server start
+```  
+### Install CodeChecker CLI tool
+
+
+
